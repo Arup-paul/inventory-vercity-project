@@ -1,8 +1,7 @@
  # installation Process
    Php Version require 7.3
 
-  - First Clone Git 
- `` https://github.com/Arup-paul/inventory-vercity-project.git`
+  - First Clone Git ``https://github.com/Arup-paul/inventory-vercity-project.git``
   - copy env file or command   ``cp .env.example .env``
   - install composer ``composer install``
   - cache clear run ``php artisan optimize:clear``
