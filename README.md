@@ -5,6 +5,7 @@
   - copy env file or command   ``cp .env.example .env``
   - install composer ``composer install``
   - cache clear run ``php artisan optimize:clear``
+  - key generate ``php artisan key:generate``
   - set database in env file
   - Run ``php artisan migrate``
   - Run ``php artisan db:seed``
